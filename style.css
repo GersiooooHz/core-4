@@ -28,11 +28,9 @@ body {
 
 .content {
     margin-left: 25px;
-}
-
-.content {
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 .tarjeta h1 {
     color: rgb(65, 63, 63);
@@ -40,4 +38,14 @@ body {
 
 .tarjeta h3,p {
     color: rgb(95, 94, 94);
+}
+
+.boton {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: rgb(190, 190, 190);
 }
