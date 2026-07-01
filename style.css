@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.topcolor {
+    width: 100%;
+    height: 20%;
+    background-color: aquamarine;
+}
+.tarjeta {
+
+    overflow: hidden;
+    border-radius: 20px;
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    box-shadow: 10px 10px 20px gray;
+
+}
+.tarjeta img {
+    border: 4px solid white;
+    margin-top: -50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.content {
+    margin-left: 25px;
+}
