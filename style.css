@@ -21,11 +21,23 @@ body {
 .tarjeta img {
     border: 4px solid white;
     margin-top: -50px;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
 }
 
 .content {
     margin-left: 25px;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tarjeta h1 {
+    color: rgb(65, 63, 63);
+}
+
+.tarjeta h3,p {
+    color: rgb(95, 94, 94);
 }
